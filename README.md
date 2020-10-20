@@ -1,4 +1,4 @@
-# Logistic Regression with example : Diabetes Detection
+# Diabetes Detection
 
 Logistic Regression is a Machine Learning algorithm which is used for the classification problems, it is a predictive analysis algorithm and based on the concept of probability.
 
@@ -13,8 +13,7 @@ As shown in the picture if you are trying to figure out the test will pass or fa
  </ul>
 
 
-Consider a scenario where we need to classify whether an email is spam or not. If we use linear regression for this problem, there is a need for setting up a threshold based on which classification can be done. Say if the actual class is malignant, predicted continuous value 0.4 and the threshold value is 0.5, the data point will be classified as not malignant which can lead to serious consequence in real time.
-From this example, it can be inferred that linear regression is not suitable for classification problem. Linear regression is unbounded, and this brings logistic regression into picture. Their value strictly ranges from 0 to 1.
+
 
 # Project:
 To make the learning project easier and productive, we are going to learn Logistic Regression by an example of creating a logistic regression model to predict a user is Diabetic or not.
@@ -29,13 +28,5 @@ Finally after a successive training it’s our main goal to integrate our machin
 
 <img src="/flask_integration/static/images/diabetics diagnosis.PNG" alt=""/>
 
-
-Hope you have enjoyed learning this, if so share this with others and for more such contents you can connect with me on 
-
-YouTube: https://www.youtube.com/channel/UCmF8qppe02J1ot4Jfwl_lFg
-
-LinkedIn: https://www.linkedin.com/in/jagwithyou/
-
-Medium: https://medium.com/@jagwithyou
 
 
