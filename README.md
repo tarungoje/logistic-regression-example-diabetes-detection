@@ -26,7 +26,7 @@ Finally after a successive training it’s our main goal to integrate our machin
 **Command to run the script: python flask_integration\app.py**
 
 
-<img src="/flask_integration/static/images/diabetics diagnosis.PNG" alt=""/>
+
 
 
 
