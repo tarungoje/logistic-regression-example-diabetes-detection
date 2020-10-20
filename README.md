@@ -19,12 +19,6 @@ As shown in the picture if you are trying to figure out the test will pass or fa
 To make the learning project easier and productive, we are going to learn Logistic Regression by an example of creating a logistic regression model to predict a user is Diabetic or not.
 First we are going to collect the dataset and clean it. Then we will create a Logistic regression model with fitting the dataset. 
 
-**FileName: diabetic_analysis_logistic_regression.ipynb**
-
-Finally after a successive training it’s our main goal to integrate our machine learning model with the GUIs. You can use tkinter for making a desktop application like we did in Linear Regression example, but here we are going to integrate it with a web framework i.e Flask, to create a website that will take the input parameters from the user and predict if they are Diabetic or not.
-
-**Command to run the script: python flask_integration\app.py**
-
 
 
 
